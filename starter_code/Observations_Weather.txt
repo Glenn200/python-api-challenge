@@ -1,4 +1,4 @@
 The latitude at '0' degrees shows the temps remains consistant between 60 to 90 degrees. (Source Lattitued ve Temp Plot)
 The latitude between -20 and 20 degrees shows the wind speed to be between 1 to 6 MPH. (Latitude vs. Wind Speed Plot)
-The humidity between -20 and 20 degrees shows the a range between 60 and 100%.  As you move north or south of ) degrees the bottom range move up to around 70%. 
+The humidity between -20 and 20 degrees shows the a range between 60 and 100%.  As you move north or south of ) degrees the bottom range move up to around 70%.
 
